@@ -1,0 +1,26 @@
+p {
+	text-transform: uppercase;
+	font-family: Sriracha;
+	border-bottom: 5px solid yellow;
+	font-size: 20px;
+	color: white;
+}
+
+img {
+	width:370px;
+	height: 300px;
+	margin: 1.63%;
+}
+
+body {
+	background: black;
+}
+
+div {
+	color: red;
+	text-align: center;
+}
+
+a:visited {
+	color: white;
+}
